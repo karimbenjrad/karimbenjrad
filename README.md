@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karim Ben Jrad
 
-I'm a **Software Data Engineer & Backend Developer** passionate about building **intelligent, data-driven, and scalable systems** that connect **machine learning**, **data engineering**, and **backend architecture**.
+I'm a **Software Data Engineer & Backend Developer** with **4 years of experience** building **intelligent, data-driven, and scalable systems** that merge **machine learning**, **data engineering**, and **backend architecture**.
 
 I specialize in designing and implementing **end-to-end solutions** — from **data ingestion and validation** to **API development**, **model deployment**, and **cloud automation**.
 
