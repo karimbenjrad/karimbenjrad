@@ -12,11 +12,9 @@ Earlier, as a **Data Scientist at Axefinance**, I developed deep learning models
 
 ---
 
-
 ## 📄 My CV
-[CV_Karim_Ben_Jrad_Eng.pdf](https://github.com/user-attachments/files/22765544/CV_Karim_Ben_Jrad_Eng.pdf)
-[CV_Karim_Ben_Jrad_FR.pdf](https://github.com/user-attachments/files/22765921/CV_Karim_Ben_Jrad_FR.pdf)
-
+- 🇬🇧 [Download my CV in English](https://github.com/user-attachments/files/22765544/CV_Karim_Ben_Jrad_Eng.pdf)  
+- 🇫🇷 [Télécharger mon CV en Français](https://github.com/user-attachments/files/22765921/CV_Karim_Ben_Jrad_FR.pdf)
 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/karim-ben-jrad/)
