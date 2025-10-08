@@ -18,5 +18,5 @@ Earlier, as a **Data Scientist at Axefinance**, I developed deep learning models
 
 
 ## 🌐 Connect with me
-- [LinkedIn]([https://www.linkedin.com/in/karimbenjrad](https://www.linkedin.com/in/karim-ben-jrad/))
+- [LinkedIn](https://www.linkedin.com/in/karim-ben-jrad/)
 - [Email](benjrad.karim@gmail.com)
