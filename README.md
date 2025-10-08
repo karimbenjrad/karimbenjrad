@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Karim Ben Jrad
 
-<!--
-**karimbenjrad/karimbenjrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Data Engineer & Backend Developer** passionate about building **intelligent, data-driven, and scalable systems** that connect **machine learning**, **data engineering**, and **backend architecture**.
 
-Here are some ideas to get you started:
+I specialize in designing and implementing **end-to-end solutions** — from **data ingestion and validation** to **API development**, **model deployment**, and **cloud automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I work as a **Mid-Senior Software Data Engineer at Manaos (Paris, Remote)**, optimizing financial data workflows with **AWS**, **Apache Iceberg**, and **Athena**.  
+Previously, at **Elyadata / Algobrain**, I engineered **Retrieval-Augmented Generation (RAG)** systems, developed **backend services** for AI models, and built **OCR and NLP pipelines** at scale.  
+Earlier, as a **Data Scientist at Axefinance**, I developed deep learning models for **document structure recognition** and **financial data extraction**.
+
+💡 I’m driven by solving complex data challenges and delivering **robust backend architectures** that make AI and analytics truly production-ready.
+
+---
+
+
+## 📄 My CV
+[CV_Karim_Ben_Jrad_Eng.pdf](https://github.com/user-attachments/files/22765544/CV_Karim_Ben_Jrad_Eng.pdf)
+
+
+## 🌐 Connect with me
+- [LinkedIn]([https://www.linkedin.com/in/karimbenjrad](https://www.linkedin.com/in/karim-ben-jrad/))
+- [Email](benjrad.karim@gmail.com)
